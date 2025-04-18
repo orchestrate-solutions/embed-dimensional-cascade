@@ -1,0 +1,6 @@
+Recall@10 and Search Time by Dimension
+========================================
+Dimension 32: Recall=0.3060, Time=0.0071s
+Dimension 64: Recall=0.4220, Time=0.0074s
+Dimension 128: Recall=0.5960, Time=0.0090s
+Dimension 256: Recall=1.0000, Time=0.0077s
